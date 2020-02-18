@@ -21,7 +21,7 @@ female fights increased significantly after 2015:
 
 ![Screenshot](Picture2.png)
 
-```
+
 Another very interesting data point is that the distribution of title fights changed significantly:
 
 ![Screenshot](Picture3.png)
